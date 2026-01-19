@@ -1,6 +1,6 @@
 # Multi-Asset-Worst-Of-Autocallable-Pricer
 
-This project features a Monte Carlo pricing engine for a complex Equity Derivative (Worst-Of Autocall) on a basket of stocks (AAPL, GOOG, TSLA, MSFT). The model captures path-dependency and correlation dynamics between underlyings.
+This project features a Monte Carlo pricing engine for a complex Equity Derivative (Worst-Of Autocall) on a basket of stocks. The model captures path-dependency and correlation dynamics between underlyings.
 
 Product Specifications
 Underlyings: Multi-asset basket (Worst-Of logic).
